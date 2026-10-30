@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/tesshoki",
  "yomi": "てっしょきものがたり",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書",
+  "era": "室町中期",
+  "author": "正徹",
+  "desc": "正徹の歌論書「正徹物語」の上巻にあたる。定家を歌道の規範として仰ぎ、二条・冷泉・京極の三流の対立や、詠歌の心得を述べる。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -176,6 +181,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:05:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
